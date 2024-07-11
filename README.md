@@ -66,8 +66,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ----------------------------------------------------------
-Hi I'm Ahmed Fares my major is Web applications penetration tester And network too
-I'm programmer too so I have great knowledge about:
+Hi I'm Ahmed Fares my major is Web applications <br> penetration tester And network too <br>
+I'm programmer too so I have great knowledge about: <br>
 1-C++
 2-Python
 3-Js
