@@ -67,14 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ----------------------------------------------------------
 Hi I'm Ahmed Fares my major is Web applications <br> penetration tester And network too <br>
-I'm programmer too so I have great knowledge about: <br>
-1-C++ <br>
-2-Python <br>
-3-Javascript <br>
-4-Php <br>
-5-Laravel <br>
-6-SQL Server, MySQL <br>
-7-HTML, CSS <br>
+I'm programmer too. 
 __________________________________________________________
 You can find scripts for crypto using Known types in encryption types with python.
 
@@ -87,4 +80,5 @@ Thanks for reading!!
 <br>
 <br>
 Ahmed Fares Ali
+
 
